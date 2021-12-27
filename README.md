@@ -1,7 +1,7 @@
 
 # IITH ML Hackathon
 
-This was a graded Hackathon conducted on Kaggle for a Machine Learning Course during my 1st Semester at IIT Hyderabad. It was a 3-day long competition and a total of 240 participants were there. I and my friend (2 person team) managed to secure #6 on both public and private leaderboards.
+This was a graded Hackathon conducted on Kaggle for a Machine Learning Course during my 1st Semester at IIT Hyderabad. It was a 3-day long competition and a total of 240 participants were there. I and my friend (2 person team) managed to secure the #6 position on both public and private leaderboards.
 
 ### Problem Description
 
